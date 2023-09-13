@@ -1,5 +1,5 @@
 # Cryptocurrency Clustering Analysis
-Overview
+*Overview*
 
 This project aims to cluster various cryptocurrencies to identify potential patterns and correlations among them. We use unsupervised learning techniques, specifically K-Means clustering, along with Principal Component Analysis (PCA) for dimensionality reduction.
 
