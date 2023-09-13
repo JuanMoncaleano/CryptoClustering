@@ -1,5 +1,6 @@
 # Cryptocurrency Clustering Analysis
 Overview
+
 This project aims to cluster various cryptocurrencies to identify potential patterns and correlations among them. We use unsupervised learning techniques, specifically K-Means clustering, along with Principal Component Analysis (PCA) for dimensionality reduction.
 
 Technologies
@@ -12,13 +13,12 @@ Matplotlib
 Installation and Usage
 Clone this repository and open the Jupyter Notebook (Crypto_Clustering.ipynb) in a Jupyter environment. Make sure you have installed all the libraries listed under "Technologies".
 
-bash
-Copy code
-git clone https://github.com/your_username/Crypto_Clustering.git
 Dataset
+
 The dataset (crypto_market_data.csv) contains various metrics for different cryptocurrencies, such as price, market capitalization, and percentage change in price over different time frames.
 
 Steps
+
 Data Preprocessing: The dataset is cleaned and scaled to prepare for clustering analysis.
 
 Principal Component Analysis (PCA): PCA is performed to reduce the dimensionality of the data, making it easier to visualize and analyze.
